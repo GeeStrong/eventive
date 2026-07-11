@@ -1,0 +1,18 @@
+.app-main {
+  padding-top: 4.5rem; /* keeps content clear of the fixed navbar */
+  min-height: 100vh;
+  background-color: #f8f9fa;
+}
+
+.auth-page {
+  min-height: calc(100vh - 4.5rem);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem 1rem;
+}
+
+.auth-card {
+  width: 100%;
+  max-width: 26rem;
+}
