@@ -27,7 +27,7 @@ Most to-do apps are built for tasks, not for things with a specific date and tim
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/eventive.git
+git clone https://github.com/GeeStrong/eventive.git
 cd agenda
 
 # Install dependencies
